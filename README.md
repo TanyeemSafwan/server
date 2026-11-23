@@ -15,9 +15,9 @@ This repository is the **standalone Express server**. The Next.js frontend lives
 
 | Dashboard | Doctors | Mobile |
 |---|---|---|
-| ![Dashboard](https://raw.githubusercontent.com/TanyeemSafwan/client/main/docs/screenshots/desktop-dashboard.png) | ![Doctors](https://raw.githubusercontent.com/TanyeemSafwan/client/main/docs/screenshots/desktop-doctors.png) | ![Mobile](https://raw.githubusercontent.com/TanyeemSafwan/client/main/docs/screenshots/mobile-dashboard.png) |
+| ![Dashboard](https://github.com/TanyeemSafwan/client/blob/main/screenshots/desktop-dashboard.png) | ![Doctors](https://github.com/TanyeemSafwan/client/blob/main/screenshots/desktop-doctor.png) | ![Mobile](https://github.com/TanyeemSafwan/client/blob/main/screenshots/mobile-dashboard.png) |
 
-More screenshots (desktop and mobile) are in the [client README](https://github.com/TanyeemSafwan/client#screenshots).
+More screenshots (desktop and mobile) are in the [client README](https://github.com/TanyeemSafwan/client/blob/main/README.md).
 
 ## Tech stack
 
@@ -54,7 +54,7 @@ npm run seed         # demo admin + viewer, 60 doctors, ~3,000 patients over the
 npm run dev          # http://localhost:4000  →  GET /api/v1/health
 ```
 
-Then start the [client](https://github.com/TanyeemSafwan/client#setup-guide) and log in with the `SEED_ADMIN_*` or `SEED_VIEWER_*` account from your `.env`.
+Then start the [client](https://github.com/TanyeemSafwan/client/blob/main/README.md) and log in with the `SEED_ADMIN_*` or `SEED_VIEWER_*` account from your `.env`.
 
 | Script | |
 |---|---|
